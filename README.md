@@ -2,20 +2,18 @@
 This tool can check valid logins to Paypal Accounts. This tool is 100% accurate because it uses Paypal APIs directly. This tool can view information such as Name, Ballance, Phone number, Payment, Address, etc. [UPDATE: 1 JUNE 2024]
 
 <p>
-Feature :
-- Show Ballance
-- Show Type Account
-- Show Payment
-- Show Address
-- Show Fullname
-- Show Phone Number
-- Multithreads
-- Fast checking
-- Speed Check 30/sec
-- Support All Country
-- Support All Email
-- Free Service
-- Free Tutorial</p>
+Feature :<br />
+- Show Ballance<br />
+- Show Type Account<br />
+- Show Payment<br />
+- Show Address<br />
+- Show Fullname<br />
+- Show Phone Number<br />
+- Multithreads<br />
+- Fast checking<br />
+- Speed Check 30/sec<br />
+- Support All Country<br />
+- Support All Email<br /></p>
 
 ![PHP](https://img.shields.io/badge/language-PHP-blue.svg)
 ![DARKXCODE](https://img.shields.io/badge/Team-DARKXCODE-black)
