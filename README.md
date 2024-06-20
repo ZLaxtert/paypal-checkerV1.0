@@ -1,4 +1,8 @@
 # paypal-checkerV1.0
+![PHP](https://img.shields.io/badge/language-PHP-blue.svg)
+![DARKXCODE](https://img.shields.io/badge/Team-DARKXCODE-black)
+![AUTHOR](https://img.shields.io/badge/Author-Zlaxtert-orange)
+
 This tool can check valid logins to Paypal Accounts. This tool is 100% accurate because it uses Paypal APIs directly. This tool can view information such as Name, Ballance, Phone number, Payment, Address, etc. [UPDATE: 1 JUNE 2024]
 
 <p>
@@ -14,10 +18,6 @@ Feature :<br />
 - Speed Check 30/sec<br />
 - Support All Country<br />
 - Support All Email<br /></p>
-
-![PHP](https://img.shields.io/badge/language-PHP-blue.svg)
-![DARKXCODE](https://img.shields.io/badge/Team-DARKXCODE-black)
-![AUTHOR](https://img.shields.io/badge/Author-Zlaxtert-orange)
 
 ## Install on desktop : 
 - Install XAMPP
