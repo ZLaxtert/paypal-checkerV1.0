@@ -13,6 +13,7 @@ Feature :<br />
 - Show Address<br />
 - Show Fullname<br />
 - Show Phone Number<br />
+- Bypass capthca<br />
 - Multithreads<br />
 - Fast checking<br />
 - Speed Check 30/sec<br />
