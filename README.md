@@ -19,6 +19,6 @@ This tool can check valid logins to Paypal Accounts. This tool is 100% accurate 
     $ php cli.php
 
 ## Screenshot
-<img src="https://github.com/ZLaxtert/cc-checkerV4/blob/main/ss%20cc%20checker%20v4.png">
+<img src="https://github.com/ZLaxtert/paypal-checkerV1.0/blob/main/result-pp.jpg">
 
 
